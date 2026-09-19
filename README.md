@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm YOUR_NAME 👋
+# Hi, I'm Kirill01888 👋
 
 Interested in new projects that give me amazing experience.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6e5494&style=flat-square)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=Kirill01888&color=6e5494&style=flat-square)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -63,14 +63,6 @@ Interested in new projects that give me amazing experience.
 
 ---
 
-<div align="center">
-
-**Contact**
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
-
-</div>
 
 <!--
 **Kirill01888/Kirill01888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
