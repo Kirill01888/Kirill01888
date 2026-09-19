@@ -4,9 +4,6 @@ I am interesting new projects, that can give me new amazing experience.
 
 ## There are my skills
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-
-
 ## Native
 
 ### WEB
