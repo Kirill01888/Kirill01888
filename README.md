@@ -1,90 +1,76 @@
 <div align="center">
 
-# Hi there 👋
+# Hi, I'm YOUR_NAME 👋
 
-**I'm interested in new projects that can give me amazing new experience.**
+Interested in new projects that give me amazing experience.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6e5494&style=flat-square)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-### 🧠 My Skills
-
-#### 🟢 Native
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Web**
-
-[![Web](https://skillicons.dev/icons?i=css,html)](https://skillicons.dev)
-
-</td>
-<td valign="top" width="50%">
-
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=cs,cpp,elixir,java,js,py,php)](https://skillicons.dev)
-
-</td>
-</tr>
-</table>
-
-#### 🔵 More
+![C#](https://skillicons.dev/icons?i=cs)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Elixir](https://skillicons.dev/icons?i=elixir)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=py)
+![PHP](https://skillicons.dev/icons?i=php)
 
 **Web**
 
-[![Web More](https://skillicons.dev/icons?i=vue,nuxtjs,pinia,nodejs,bootstrap,tailwind,jquery)](https://skillicons.dev)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Vue](https://skillicons.dev/icons?i=vue)
+![Nuxt](https://skillicons.dev/icons?i=nuxtjs)
+![Pinia](https://skillicons.dev/icons?i=pinia)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![jQuery](https://skillicons.dev/icons?i=jquery)
 
 **Frameworks**
 
-[![Frameworks](https://skillicons.dev/icons?i=unity,laravel,yii2)](https://skillicons.dev)
+![Unity](https://skillicons.dev/icons?i=unity)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Yii2](https://skillicons.dev/icons?i=yii2)
 
-#### 🟣 Editors
+**Infrastructure**
 
-[![Editors](https://skillicons.dev/icons?i=idea,pycharm,rider,visualstudio,vscode,phpstorm)](https://skillicons.dev)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![Apache](https://skillicons.dev/icons?i=apache)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Windows](https://skillicons.dev/icons?i=windows)
 
-#### 🟠 Infrastructure
+**Tools & Editors**
 
-**Servers**
-
-[![Servers](https://skillicons.dev/icons?i=nginx,apache)](https://skillicons.dev)
-
-**Databases**
-
-[![DB](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
-
-#### 🟡 Tools
-
-[![Tools](https://skillicons.dev/icons?i=npm,postman)](https://skillicons.dev)
-
-#### 🔴 Version Control
-
-[![Version Control](https://skillicons.dev/icons?i=gitlab,github)](https://skillicons.dev)
-
-#### ⚫ Platforms
-
-[![Platforms](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
-
-#### 🤖 AI
-
-[![AI](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+![PyCharm](https://skillicons.dev/icons?i=pycharm)
+![Rider](https://skillicons.dev/icons?i=rider)
+![PhpStorm](https://skillicons.dev/icons?i=phpstorm)
+![npm](https://skillicons.dev/icons?i=npm)
+![Postman](https://skillicons.dev/icons?i=postman)
+![GitHub](https://skillicons.dev/icons?i=github)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
 
 ---
 
 <div align="center">
 
-### 📫 How to reach me
+**Contact**
 
-<!-- Добавь свои контакты, например: -->
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
 
 </div>
-
 
 <!--
 **Kirill01888/Kirill01888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
