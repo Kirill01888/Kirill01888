@@ -2,61 +2,61 @@
 
 I am interesting new projects, that can give me new amazing experience.
 
-## There are my skills
+### There are my skills
 
-## Native
+#### Native
 
-### WEB
+##### WEB
 
 [![My Skills](https://skillicons.dev/icons?i=css,html)](https://skillicons.dev)
-### Languages
+##### Languages
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,elixir,java,js,py,php)](https://skillicons.dev)
 
 
-## More
+#### More
 
-### WEB
+##### WEB
 [![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,pinia,nodejs,bootstrap,tailwind,jquery)](https://skillicons.dev)
 
 
-## Editors
+#### Editors
 [![My Skills](https://skillicons.dev/icons?i=idea,pycharm,rider,visualstudio,vscode,phpstorm)](https://skillicons.dev)
 
 
-## Frameworks
+#### Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=unity,laravel,yii2)](https://skillicons.dev)
 
 
-## Infrastructure
+#### Infrastructure
 
-### Servers
+##### Servers
 
 [![My Skills](https://skillicons.dev/icons?i=nginx,apache)](https://skillicons.dev)
 
 
-### DB
+##### DB
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
 
 
-## Tools
+#### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=npm,postman)](https://skillicons.dev)
 
 
-## Version Control
+#### Version Control
 
 [![My Skills](https://skillicons.dev/icons?i=gitlab,github)](https://skillicons.dev)
 
 
-## Skills
+#### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
 
 
-## Platforms
+#### Platforms
 
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
