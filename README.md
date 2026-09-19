@@ -4,7 +4,7 @@
 
 Interested in new projects that give me amazing experience.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Kirill01888&color=6e5494&style=flat-square)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=Kirill01888&color=6e5494&style=flat-square)](https://github.com/Kirill01888)
 
 </div>
 
