@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## There are my skills
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 <!--
 **Kirill01888/Kirill01888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
