@@ -1,64 +1,89 @@
-## Hi there 👋
+<div align="center">
 
-I am interesting new projects, that can give me new amazing experience.
+# Hi there 👋
 
-### There are my skills
+**I'm interested in new projects that can give me amazing new experience.**
 
-#### Native
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)](https://github.com/YOUR_USERNAME)
 
-##### WEB
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=css,html)](https://skillicons.dev)
-##### Languages
+---
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,elixir,java,js,py,php)](https://skillicons.dev)
+### 🧠 My Skills
 
+#### 🟢 Native
 
-#### More
+<table>
+<tr>
+<td valign="top" width="50%">
 
-##### WEB
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,pinia,nodejs,bootstrap,tailwind,jquery)](https://skillicons.dev)
+**Web**
 
+[![Web](https://skillicons.dev/icons?i=css,html)](https://skillicons.dev)
 
-#### Editors
-[![My Skills](https://skillicons.dev/icons?i=idea,pycharm,rider,visualstudio,vscode,phpstorm)](https://skillicons.dev)
+</td>
+<td valign="top" width="50%">
 
+**Languages**
 
-#### Frameworks
+[![Languages](https://skillicons.dev/icons?i=cs,cpp,elixir,java,js,py,php)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=unity,laravel,yii2)](https://skillicons.dev)
+</td>
+</tr>
+</table>
 
+#### 🔵 More
 
-#### Infrastructure
+**Web**
 
-##### Servers
+[![Web More](https://skillicons.dev/icons?i=vue,nuxtjs,pinia,nodejs,bootstrap,tailwind,jquery)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nginx,apache)](https://skillicons.dev)
+**Frameworks**
 
+[![Frameworks](https://skillicons.dev/icons?i=unity,laravel,yii2)](https://skillicons.dev)
 
-##### DB
+#### 🟣 Editors
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
+[![Editors](https://skillicons.dev/icons?i=idea,pycharm,rider,visualstudio,vscode,phpstorm)](https://skillicons.dev)
 
+#### 🟠 Infrastructure
 
-#### Tools
+**Servers**
 
-[![My Skills](https://skillicons.dev/icons?i=npm,postman)](https://skillicons.dev)
+[![Servers](https://skillicons.dev/icons?i=nginx,apache)](https://skillicons.dev)
 
+**Databases**
 
-#### Version Control
+[![DB](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=gitlab,github)](https://skillicons.dev)
+#### 🟡 Tools
 
+[![Tools](https://skillicons.dev/icons?i=npm,postman)](https://skillicons.dev)
 
-#### Skills
+#### 🔴 Version Control
 
-[![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+[![Version Control](https://skillicons.dev/icons?i=gitlab,github)](https://skillicons.dev)
 
+#### ⚫ Platforms
 
-#### Platforms
+[![Platforms](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+#### 🤖 AI
+
+[![AI](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+
+---
+
+<div align="center">
+
+### 📫 How to reach me
+
+<!-- Добавь свои контакты, например: -->
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+
+</div>
 
 
 <!--
