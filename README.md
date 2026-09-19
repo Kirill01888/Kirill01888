@@ -51,7 +51,7 @@ I am interesting new projects, that can give me new amazing experience.
 [![My Skills](https://skillicons.dev/icons?i=gitlab,github)](https://skillicons.dev)
 
 
-## Scills
+## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
 
