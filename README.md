@@ -41,7 +41,6 @@ Interested in new projects that give me amazing experience.
 **Infrastructure**
 
 ![Nginx](https://skillicons.dev/icons?i=nginx)
-![Apache](https://skillicons.dev/icons?i=apache)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
