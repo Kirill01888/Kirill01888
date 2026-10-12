@@ -60,7 +60,8 @@ Interested in new projects that give me amazing experience.
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![GitLab](https://skillicons.dev/icons?i=gitlab)
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
           
 ---
 
