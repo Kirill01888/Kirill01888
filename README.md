@@ -61,6 +61,58 @@ Interested in new projects that give me amazing experience.
 ![GitLab](https://skillicons.dev/icons?i=gitlab)
 
 
+**Languages**
+
+<i class="devicon-csharp-original colored"></i>
+<i class="devicon-cplusplus-original colored"></i>
+<i class="devicon-elixir-original colored"></i>
+<i class="devicon-java-original colored"></i>
+<i class="devicon-javascript-original colored"></i>
+<i class="devicon-python-original colored"></i>
+<i class="devicon-php-original colored"></i>
+
+**Web**
+
+<i class="devicon-html5-original colored"></i>
+<i class="devicon-css3-original colored"></i>
+<i class="devicon-vuejs-original colored"></i>
+<i class="devicon-nuxtjs-original colored"></i>
+<i class="devicon-pinia-original colored"></i>
+<i class="devicon-nodejs-original colored"></i>
+<i class="devicon-bootstrap-original colored"></i>
+<i class="devicon-tailwindcss-original colored"></i>
+<i class="devicon-jquery-original colored"></i>
+
+**Frameworks**
+
+<i class="devicon-unity-original colored"></i>
+<i class="devicon-laravel-original colored"></i>
+<i class="devicon-yii-original colored"></i>
+
+**Infrastructure**
+
+<i class="devicon-nginx-original colored"></i>
+<i class="devicon-apache-original colored"></i>
+<i class="devicon-haproxy-original colored"></i>
+<i class="devicon-mysql-original colored"></i>
+<i class="devicon-postgresql-original colored"></i>
+<i class="devicon-sqlite-original colored"></i>
+<i class="devicon-linux-original colored"></i>
+<i class="devicon-windows8-original colored"></i>
+
+**Tools & Editors**
+
+<i class="devicon-vscode-original colored"></i>
+<i class="devicon-visualstudio-original colored"></i>
+<i class="devicon-intellij-original colored"></i>
+<i class="devicon-pycharm-original colored"></i>
+<i class="devicon-rider-original colored"></i>
+<i class="devicon-phpstorm-original colored"></i>
+<i class="devicon-npm-original colored"></i>
+<i class="devicon-postman-original colored"></i>
+<i class="devicon-github-original colored"></i>
+<i class="devicon-gitlab-original colored"></i>
+
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
           
 ---
