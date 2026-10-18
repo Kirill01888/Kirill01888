@@ -10,6 +10,8 @@ Interested in new projects that give me amazing experience.
 
 ---
 
+**Languages**
+
 ![C#](https://skillicons.dev/icons?i=cs)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Elixir](https://skillicons.dev/icons?i=elixir)
